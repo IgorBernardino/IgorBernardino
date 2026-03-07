@@ -1,4 +1,4 @@
-## Olá meu nobres eu sou o Igor, Seja Bem Vindo.
+## Olá eu sou o Igor, Seja Bem Vindo.
 
 . 🚀 Front-end | UI and Ux developer - Origamid
 <br>
