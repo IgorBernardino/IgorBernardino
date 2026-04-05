@@ -6,7 +6,7 @@
 
 ## 👋 Sobre mim
 
-Olá! Sou **Igor de Santana Bernardino da Silva**, desenvolvedor FullStack nascido na **Baixada Santista** 🇧🇷
+Olá! Sou **Igor de Santana Bernardino da Silva**, desenvolvedor FullStack nascido na **Baixada Santista**
 
 Tecnologia sempre fez parte da minha vida desde cedo busquei entender cada vez mais sobre o assunto, começando pelo curso de **Montagem e Manutenção de Redes e Computadores**. De lá pra cá, nunca parei fui acumulando cursos, formações e experiências, sempre com o olhar voltado para a área.
 
